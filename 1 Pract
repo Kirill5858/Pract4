@@ -16,7 +16,7 @@ int main ()
  cout << "Hash size:" <DigestSize() << endl;
  cout << "Block size:" <BlockSize() << endl;
  fstream file;
- string path = "/home/osboxes/Documents/pract_4/hash";
+ string path = "/home/Documents/Kirill/4-1/hash";
  string str_message, file_contents;
  file.open(path);
 	while(true) {
